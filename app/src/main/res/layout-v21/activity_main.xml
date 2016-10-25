@@ -38,7 +38,7 @@
             style="@style/MyButtonTheme"
             android:text="Popular Movies"
             android:id="@+id/button1"
-             />
+            />
 
         <Button
             style="@style/MyButtonTheme"
